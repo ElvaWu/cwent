@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/po4xiao3.png</file>
+        <file>resource/ci4gu3bing1shuang1.png</file>
+        <file>resource/bi4ri4nong2wu4.png</file>
+        <file>resource/qing1pen2da4yu3.png</file>
+        <file>resource/si1lie4.png</file>
+        <file>resource/jie2luo4te4yi1ge2ni2fa3yin4.png</file>
+        <file>resource/xiao3wu4yao1.png</file>
+        <file>resource/sai4er3yi1nuo4ying1shen1nv3yao1.png</file>
+        <file>resource/tu3yuan2su4.png</file>
+        <file>resource/xie4zhi1zhu1.png</file>
+        <file>resource/xi1yi1ren2zhan4shi4.png</file>
+        <file>resource2/lei2ting2yao4shui3.png</file>
+        <file>resource2/luo2bo1.png</file>
+        <file>resource2/xi1yi1ren2zhan4shi4.png</file>
+        <file>resource2/lao3wu1yu4zhu3po2.png</file>
+        <file>resource2/lao3wu1yu4zhi1po2.png</file>
+        <file>resource2/lao3wu1yu4ni2nan2po2.png</file>
+        <file>resource2/da4shi1jiu4.png</file>
+        <file>resource2/kuang2lie4qi1shi4.png</file>
+        <file>resource2/ka3lan2xi1er3.png</file>
+        <file>resource2/wei4ju4zhe3.png</file>
+        <file>resource2/bg3.jpg</file>
+        <file>resource3/bg1.jpg</file>
+        <file>resource3/gai4er3.png</file>
+        <file>resource3/lin2yao1.png</file>
+        <file>resource3/da2gang1.png</file>
+        <file>resource3/zhi3hui3hao4jiao3.png</file>
+        <file>resource3/xie4zhi1zhu1.png</file>
+        <file>resource4/battle.png</file>
+        <file>resource4/bao4nu4de1lang2.png</file>
+        <file>resource4/an4ying3zhang3zhe3.png</file>
+        <file>resource4/bei4ke4er3de1niu3qu1zhi1jing4.png</file>
+        <file>resource4/chong2zheng3.png</file>
+    </qresource>
+</RCC>
